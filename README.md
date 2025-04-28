@@ -1,5 +1,4 @@
-# OpenRouter-List
-# OpenRouter Model Browser
+# OpenRouter-List, the OpenRouter Model Browser
 
 A lightweight HTML/JavaScript page that displays available AI models from [OpenRouter.ai](https://openrouter.ai/) with **live filtering**, **price filtering**, **name search**, and **model browsing**.
 
@@ -43,9 +42,7 @@ Built with:
 
 ## Example Screenshot
 
-> ![Screenshot Placeholder]
-
-_(Optionally insert a screenshot here by opening the page, taking a screenshot, and linking it.)_
+![Screenshot of Model Browser](assets/screenshot.png)
 
 ---
 
@@ -77,4 +74,4 @@ You are free to use, modify, and distribute it.
 ## Credits
 
 - Powered by [OpenRouter.ai](https://openrouter.ai/)
-- Designed and coded by [Your Name Here] (you can add your name if you like!)
+- Designed and coded by Michael Andrews, with chatGPT.
